@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Java" type="Java Scratch" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="merge" />
+    <module name="Interview prep" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/MergeTest.java" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
